@@ -45,11 +45,14 @@ RAG Chain → GPT-4o-mini → Answer in Azerbaijani
 
 ---
 # Install dependencies
+
+```bash
 pip install -U langchain
 pip install langchain-openai
 pip install langchain-community
 pip install langchain_text_splitters
 pip install chromadb
 pip install pypdf
+```
 
 ---

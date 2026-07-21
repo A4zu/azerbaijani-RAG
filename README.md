@@ -1,4 +1,4 @@
-# Azerbaijani Legal RAG System
+#  Law RAG System
 
 This project is a multilingual Retrieval-Augmented Generation (RAG) system built for Azerbaijani legal documents.  
 It allows users to ask legal questions in Azerbaijani and receive context-aware answers generated from official legal texts.
